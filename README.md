@@ -4,7 +4,7 @@
 Customer Shopping Behavior Analysis (End-to-End Data Analytics Project)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sanju1208/Customer_Shopping_Behavior_Analysis/refs/heads/main/Dashboard.png" width="90%" style="border-radius: 10px; box-shadow: 0 0 10px #ccc;">
+  <img src="https://raw.githubusercontent.com/22vidhi/Customer-shopping-behavior-analysis/main/Dashboard.png" width="90%" style="border-radius: 10px; box-shadow: 0 0 10px #ccc;">
 </p>
 
 
@@ -138,4 +138,3 @@ Sagili Santhosh
 Data Analyst (Python | SQL | Power BI)
 GitHub: https://www.github.com/in/santhosh1208
 LinkedIn: https://www.linkedin.com/in/sagilisanthosh1208
-
